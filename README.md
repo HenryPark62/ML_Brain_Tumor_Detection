@@ -1,4 +1,7 @@
-# ML_Brain_Tumor_Detection
+# Brain MRI Tumor Detection using DenseNet121, Grad-CAM
+
+• Improved model accuracy through transfer Learning and Fine-tuning of the DenseNet121. <br>
+• Visualized lesions using Grad-CAM.
 
 
 ![bcfc005f-758d-434c-a8ae-7bb3dc313118](https://github.com/user-attachments/assets/beee47fd-7ef7-47a5-9872-9293b3948b8b)
