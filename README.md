@@ -1,8 +1,9 @@
-# ML_Brain_Tumor_Detection!
+# ML_Brain_Tumor_Detection
 
-[a5d0936e-d572-42c7-ac81-28c073d776ef](https://github.com/user-attachments/assets/8d9fa275-892a-41a2-807d-e969ce477511)
 
 ![bcfc005f-758d-434c-a8ae-7bb3dc313118](https://github.com/user-attachments/assets/beee47fd-7ef7-47a5-9872-9293b3948b8b)
+
+![a5d0936e-d572-42c7-ac81-28c073d776ef](https://github.com/user-attachments/assets/ee1de844-efed-4e68-9882-962d2d5191c6)
 
 <img width="543" alt="스크린샷 2025-05-30 오후 7 33 30" src="https://github.com/user-attachments/assets/36ca750c-313b-4d9f-a13a-fc3fc7e371ad" />
 
