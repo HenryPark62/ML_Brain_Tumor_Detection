@@ -1,6 +1,7 @@
 # Brain MRI Tumor Detection using DenseNet121, Grad-CAM
 
-• Improved model accuracy through transfer Learning and Fine-tuning of the DenseNet121. <br>
+• Classified brain tumors into four types using softmax and fine-tuned DenseNet121 for improved
+accuracy. <br>
 • Visualized lesions using Grad-CAM.
 
 
