@@ -1,6 +1,6 @@
 # Brain MRI Tumor Detection using DenseNet121, Grad-CAM
 
-[📄 Portfolio PDF](./BrainMRITumor.pdf) 
+[📄 Portfolio PDF](./Portfolio_BrainMRITumor.pdf) 
 <br> 
 
 • Classified brain tumors into four types using softmax and fine-tuned DenseNet121 for improved
