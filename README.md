@@ -4,6 +4,9 @@
 accuracy. <br>
 • Visualized lesions using Grad-CAM.
 
+[📄 Portfolio PDF](./BrainMRITumor.pdf) 
+<br> 
+
 
 ![bcfc005f-758d-434c-a8ae-7bb3dc313118](https://github.com/user-attachments/assets/beee47fd-7ef7-47a5-9872-9293b3948b8b)
 
